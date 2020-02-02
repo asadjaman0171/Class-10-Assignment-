@@ -1,0 +1,409 @@
+/* 
+Asad Hossain
+
+Fb- asadjaman0171@gmail.com
+
+
+*/
+
+/*
+         
+=========index=========
+1. header
+2. Fusce at
+3. Facilisis
+4. Ante donec
+5. Blandit
+6. rhoncus
+7. Placerat
+
+*/
+
+
+
+
+
+ /*============= global css ============ */
+
+ h1 {
+ 	font-size: 52px;
+  	color: #fff;
+ }
+
+  h2 { 
+  	font-size: 14px;
+  	color: #fff;
+
+ }
+
+  h3 {
+
+ }
+
+  h4 {
+  	font-size: 28px;
+  	color: #fff;
+
+ }
+
+  h5 { font-size: 28px;
+  	color: #161616;
+
+ }
+
+  h6 {
+  		font-size: 18px;
+  		color: #161616;
+ 	}
+
+ p {
+ 	font-size: 25px;
+  		color: #fff;
+ }
+ .cstm-btn-one {
+				    height: 50px;
+				    width: 160px;
+				    color: #612316;
+				    background: #fff;
+				    font-size: 15px;
+				    border-radius: 21px;
+				    display: block;
+				    margin: 35px auto;
+				}
+ .cstm-btn-two {
+
+ }
+
+.cstm-btn-on {
+				    height: 50px;
+				    width: 160px;
+				    color: #612316;
+				    background: #fff;
+				    font-size: 15px;
+				    border-radius: 21px;
+				    text-align: center;
+}
+
+
+
+
+
+ /*============= Theme css ============ */
+
+
+ /* Nav heder*/
+
+.nav-header {
+	background-color: #edeff1!important;
+    padding: 15px 0px;
+ }
+ .fa.fa-home {
+ 	font-size: 30px;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: #66403a3b;
+ }
+ .nav-link {
+ 	color: black!important;
+ }
+.nav-link.js-scroll-trigger.active {
+	    background-color: #dd4b2b!important;
+    color: #fff!important;
+    border-radius: 20px;
+    padding: 10px 22px;
+    margin: 0px 5px;
+}
+
+
+/*hreo section css*/
+
+.hero {
+	background: url(../img/banner-main.png)  no-repeat center top ;
+	background-size: cover;
+	padding-top: 500px;
+	text-align: center;
+}
+.hero-content {
+
+padding-bottom: 125px;
+}
+.hero-item {
+ 	
+}
+.hero-item img {
+ 	padding-bottom: 30px;
+}
+.hero-item h4 {
+ 	padding-bottom: 30px;
+}
+.hero-item p {
+
+text-align: initial;
+}
+/*hreo section css end*/
+
+
+/*section two css start*/
+.sec-two {
+	background-color: #edeff1;
+	text-align: center;
+}
+.sec-two-cont {
+	padding: 80px 0px;
+
+}
+.sec-two-item {
+	text-align: center;
+
+
+}
+
+.sec-two-item img {
+	
+padding: 25px 0px;
+}
+
+
+.sec-two-item h5 {
+	
+padding-top: 39px;
+	
+padding-bottom: 19px;
+}
+
+.sec-two-item h6 {
+	
+text-align: justify;
+	
+padding-bottom: 39px;
+}
+.sec-two-item button {
+	margin-bottom: 105px;
+
+}
+/*section two css end*/
+
+/*section three css start*/
+.sec-three {
+background:url(../img/section-o.png) no-repeat center top ;
+	background-size: cover;
+	text-align: center;
+}
+
+.sec-three h4 {
+	padding-bottom: 31px;
+	padding-top: 90px;
+
+}
+
+.sec-three p {
+	text-align: justify-all;
+	
+
+}
+
+.sec-three form {
+	padding-top: 60px;
+    padding-bottom: 108px;
+	
+}
+.form-contron { 
+    position: relative;
+    width: 60%;
+    height: 47px;
+    background: transparent;
+    border: 3px solid #fff;
+    border-radius: 40px;
+
+}
+.btn-submit {
+    position: absolute;
+    border-radius: 22px;
+    background: #fff;
+    border: none;
+    padding: 12px 31px;
+    top: 69%;
+    right: 20%;
+}
+
+/*section three css end*/
+
+/*section Four css start*/
+ .sec-four {
+ 		background-color: #fff;
+ 		text-align: center;
+
+ }
+
+ .sec-four-cont {
+
+ }
+ .sec-four-cont h5 {
+ 	padding-top: 121px;
+
+ }
+ .sec-four-cont h6 {
+ 	line-height: 2;
+    text-align: initial;
+
+ }
+ .sec-four-cont img {
+ 	 	padding-top: 20px;
+
+ }
+  .sec-four-cont button {
+  	    height: 50px;
+  	    width: 160px;
+  	    color: #612316;
+  	    background: #dd4b2b;
+  	    font-size: 15px;
+  	    border-radius: 21px;
+  	    text-align: center;
+  	    margin-top: 20px;
+  	    float: left;
+ }
+
+
+ .sec-four-cont-two img {
+ 	padding-top: 20px;
+
+ }
+  .sec-four-cont-two h5 {
+  	padding-top: 140px;
+
+ }
+ .sec-four-cont-two h6 {
+ 	line-height: 2;
+    text-align: initial;
+
+ }
+
+  .sec-four-cont-two button {
+    height: 50px;
+    width: 160px;
+    color: #fff;
+    background: #4b4e73;
+    font-size: 15px;
+    border-radius: 21px;
+    text-align: center;
+    margin-top: 20px;
+    float: left;
+ }
+
+/*section Four css end*/
+
+
+.section-five {
+	 background: #dd4b2b;
+	 text-align: center;
+	 padding-bottom: 80px;
+	 padding-top: 100px;
+}
+.five-section {
+   
+}
+
+footer {
+background:url(../img/section-o.png) no-repeat center top ;
+	background-size: cover;
+	text-align: center;
+}
+.cont-h {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+/* Media Quary starts */
+
+/* Mobile device */
+@media (min-width: 320px) and (max-width: 500px) {
+.hero-content {
+	padding-bottom: 25px;
+
+}
+
+.hero {
+    background: url(../img/banner-main.png) no-repeat center top;
+    background-size: cover;
+    padding-top: 113px;
+    text-align: center; }
+
+.btn-submit {
+    position: absolute;
+    border-radius: 29px;
+    background: #fff;
+    border: none;
+    padding: 14px 33px;
+    top: 71%;
+    right: 12%;
+}
+.sec-four-cont button {
+    height: 50px;
+    width: 160px;
+    color: #612316;
+    background: #dd4b2b;
+    font-size: 15px;
+    border-radius: 21px;
+    text-align: center;
+    margin-top: 20px;
+    float: left;
+    margin-bottom: 27px;
+}
+.sec-four-cont-two button {
+    height: 50px;
+    width: 160px;
+    color: #fff;
+    background: #4b4e73;
+    font-size: 15px;
+    border-radius: 21px;
+    text-align: center;
+    margin-top: 20px;
+    float: left;
+    margin-bottom: 28px;
+}
+.five-section {
+    padding: 15px 0px;
+}
+
+/*small device*/
+@media (min-width: 501px) and (max-width: 768px) {
+
+
+.btn-submit {
+    position: absolute;
+    border-radius: 22px;
+    background: #fff;
+    border: none;
+    padding: 12px 31px;
+    top: 71%;
+    right: 20%;
+}
+    
+   
+}
+/*medium device*/
+@media (min-width: 769px) and (max-width: 1200px) {
+.btn-submit {
+    position: absolute;
+    border-radius: 22px;
+    background: #fff;
+    border: none;
+    padding: 13px 31px;
+    top: 71%;
+    right: 9%;
+}
+
+}
+/*large device*/
+@media (min-width: 1201px) {
+
+	.cstm-btn-two {
+		
+	}
+	.form-control {
+		
+	}
+
+
+}
+/* Media Quary ends */
